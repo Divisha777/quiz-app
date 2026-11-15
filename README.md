@@ -26,5 +26,6 @@ Run:
 
     ./quiz
 
-## Author
-Your Name, Your Roll Number
+## Made By:
+Divisha Arora
+Mohit Kataria
