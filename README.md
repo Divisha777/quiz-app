@@ -27,5 +27,5 @@ Run:
     ./quiz
 
 ## Made By:
-Divisha Arora
+Divisha Arora and
 Mohit Kataria
